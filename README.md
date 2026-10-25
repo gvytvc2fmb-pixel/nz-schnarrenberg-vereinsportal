@@ -1,0 +1,2 @@
+# nz-schnarrenberg-vereinsportal
+vereinsportal
